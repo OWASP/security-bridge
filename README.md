@@ -12,8 +12,8 @@ An overview can be found on the <a href="https://owasp.org/www-project-security-
 
 - “Resource Hub”: provides markdown files in the Github repo, offering training resources for employees to easily access and share with their peers and teams. The focus is to raise awareness and equip professionals in the Application Security industry (and beyond) with knowledge, tools and guidance to help prevent burnout and build greater resilience; essential to overall mental health & wellbeing. The following TTPs are available:
 
-  - [Lightening the Mental Load: Clearing Space for Opportunities](TTP/TTP-001.md)
-  - [The Power of Breathwork for Stress Management](TTP/TTP-002.md)
+  - [TTP-001 - Lightening the Mental Load: Clearing Space for Opportunities](TTP/TTP-001.md)
+  - [TTP-002 - The Power of Breathwork for Stress Management](TTP/TTP-002.md)
 
 TTPs are being used in this project in a similar fashion as in MITRE ATT&CK to help cyber security professionals relate to have an execution path that they can apply to their daily lives.
 
