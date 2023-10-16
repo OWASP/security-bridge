@@ -14,6 +14,7 @@ An overview can be found on the <a href="https://owasp.org/www-project-security-
 
   - [TTP-001 - Lightening the Mental Load: Clearing Space for Opportunities](TTP/TTP-001.md)
   - [TTP-002 - The Power of Breathwork for Stress Management](TTP/TTP-002.md)
+  - [TTP-003 - Communication skills for Wellbeing](TTP/TTP-003.md)
 
 TTPs are being used in this project in a similar fashion as in MITRE ATT&CK to help cyber security professionals relate to have an execution path that they can apply to their daily lives.
 
